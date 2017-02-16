@@ -1,0 +1,1 @@
+A list of exercises I have done with the Go_Tour. Hope it helps anybody who is interested with Go language :)
